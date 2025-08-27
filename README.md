@@ -11,7 +11,7 @@ Building skills in Data Science, AI and Embedded Systems through self-learning a
 * 🌍  I'm based in Monastir,Tunisia
 * ✉️  You can contact me at [amerimajd0@gmail.com](mailto:amerimajd0@gmail.com )
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,vscode,flask,c,cpp,react,git,js,html,css,wasm)](https://skillicons.dev)
 
 ### Socials
 
