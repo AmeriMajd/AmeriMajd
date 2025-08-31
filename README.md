@@ -1,4 +1,4 @@
-Hi 👋 My name is Ameri Majd
+Hi , it's Ameri Majd
 ===========================
 
 Software Engineering Student | Data Science & AI Enthusiast
